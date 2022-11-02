@@ -1,4 +1,4 @@
-module github.com/ovh/go-ovh
+module github.com/smile-sa/go-ovh
 
 go 1.12
 
