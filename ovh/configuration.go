@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"gopkg.in/ini.v1"
+	"github.com/go-ini/ini"
 )
 
 // Use variables for easier test overload
